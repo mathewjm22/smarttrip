@@ -1,0 +1,5 @@
+{
+  "name": "Smart Trip Planner",
+  "description": "Plan your road trip with weather, traffic, toll-free routing, and optimized stops.",
+  "requestFramePermissions": ["geolocation"]
+}
